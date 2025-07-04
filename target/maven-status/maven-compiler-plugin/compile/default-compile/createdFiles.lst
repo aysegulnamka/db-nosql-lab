@@ -1,0 +1,10 @@
+org\example\model\Student.class
+org\example\store\HazelcastStore.class
+org\example\Main.class
+org\example\store\MongoStore.class
+org\example\RedisTest.class
+org\example\TestServer.class
+org\example\store\RedisStore.class
+org\example\store\HazelcastStore$1.class
+org\example\App.class
+org\example\store\HazelcastServer.class
